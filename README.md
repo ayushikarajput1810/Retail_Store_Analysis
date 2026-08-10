@@ -59,9 +59,6 @@ The dashboard highlights the relationship between sales, customers, products, an
 - Identifies high-performing regions, products, categories, and stores.
 - Supports better sales, inventory, and customer decisions.
 
-Makes it easier to track profitability and return performance.
----
-
 ### 2. Sales Analytics
 
 📈 Sales Analytics
