@@ -31,20 +31,35 @@ and identify trends in:
 
 ### 1. Executive Overview
 
-Provides a high-level view of overall business performance.
+📊 Executive Overview
+Provides a high-level view of overall business performance, covering sales, profit, orders, customers, products, returns, and store activity.
 
-Key KPIs:
-- Total Sales
-- Total Profit
-- Profit Margin
-- Total Orders
-- Total Customers
-- Average Order Value
-- Products Sold
-- Return Amount
-- Returned Orders
-- Active Stores
+🔑 Key Metrics
+Total Sales: $45.4M
+Total Profit: $9.7M
+Profit Margin: 21%
+Total Orders: 12K
+Total Customers: 3K
+Average Order Value: $3.78K
+Products Sold: 43K
+Return Amount: $4.01M
+Returned Orders: 1K
+Active Stores: 15
 
+💡 Key Insights
+- Flagship stores generate the highest share of sales among store types.
+- Electronics contribute significantly more revenue than Clothing.
+- Sales and orders show monthly fluctuations, with October showing strong performance.
+- Greater Cairo is the leading region in customer count.
+
+The dashboard highlights the relationship between sales, customers, products, and returns in one place.
+
+💼 Business Value
+- Helps management quickly monitor overall business performance.
+- Identifies high-performing regions, products, categories, and stores.
+- Supports better sales, inventory, and customer decisions.
+
+Makes it easier to track profitability and return performance.
 ---
 
 ### 2. Sales Analytics
@@ -127,60 +142,11 @@ Key Analysis:
 
 ---
 
-## 📐 Data Modeling
 
-The project uses a dimensional data model consisting of:
 
-### Fact Table
 
-- `fact_orders`
 
-### Dimension Tables
 
-- `dim_customers`
-- `dim_products`
-- `dim_stores`
-- `dim_date`
-
-The model enables efficient filtering and analysis across
-customers, products, stores, regions, and time.
-
----
-
-## 📊 Key DAX Measures
-
-Examples of measures created:
-
-- Total Sales
-- Total Profit
-- Profit Margin %
-- Total Orders
-- Total Products Sold
-- Average Order Value
-- Total Return Amount
-- Return Rate %
-- Active Customers
-- Repeat Customers
-- Average Customer Lifetime Value
-- Average Customer Spend
-
----
-
-## 🔍 Key Insights
-
-The dashboards provide insights into:
-
-- Revenue and profit trends
-- Top-performing products and brands
-- Customer purchasing behavior
-- Repeat customer contribution
-- Regional sales performance
-- Store performance
-- Product category contribution
-- Order and return patterns
-- Payment method distribution
-
----
 
 ## 📷 Dashboard Preview
 
