@@ -36,14 +36,23 @@ Provides a high-level view of overall business performance, covering sales, prof
 
 🔑 Key Metrics
 Total Sales: $45.4M
+
 Total Profit: $9.7M
+
 Profit Margin: 21%
+
 Total Orders: 12K
+
 Total Customers: 3K
+
 Average Order Value: $3.78K
+
 Products Sold: 43K
+
 Return Amount: $4.01M
+
 Returned Orders: 1K
+
 Active Stores: 15
 
 💡 Key Insights
