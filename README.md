@@ -64,18 +64,28 @@ Makes it easier to track profitability and return performance.
 
 ### 2. Sales Analytics
 
-Analyzes revenue and sales performance across time, products,
-regions, stores, and payment methods.
+📈 Sales Analytics
+Analyzes sales performance across time, regions, products, and payment methods to identify revenue trends and top-performing areas.
 
-Key Analysis:
-- Quarterly Revenue
-- Revenue vs Profit
-- Daily Sales Trend
-- Sales by Region
-- Sales by Payment Method
-- Revenue by Product
+🔑 Key Metrics
+- Total Sales: $45.4M
+- Total Profit: $9.7M
+- Total Orders: 12K
+- Products Sold: 43K
+- Average Order Value: $3.78K
 
----
+💡 Key Insights
+- Q3 generated the highest quarterly revenue at $11.7M.
+- Greater Cairo is the top-performing region with approximately $17M in sales.
+- Sales performance varies across months, with noticeable daily and monthly fluctuations.
+- The top products contribute significantly to overall revenue.
+- Revenue is distributed fairly evenly across the different payment methods.
+
+💼 Business Value
+- Helps identify high-performing regions and products.
+- Supports sales and revenue planning using quarterly and daily trends.
+- Helps management understand customer payment preferences.
+- Enables businesses to focus on areas with the greatest revenue potential.
 
 ### 3. Customer Analytics
 
