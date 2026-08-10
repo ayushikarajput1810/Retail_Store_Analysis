@@ -35,25 +35,16 @@ and identify trends in:
 Provides a high-level view of overall business performance, covering sales, profit, orders, customers, products, returns, and store activity.
 
 🔑 Key Metrics
-Total Sales: $45.4M
-
-Total Profit: $9.7M
-
-Profit Margin: 21%
-
-Total Orders: 12K
-
-Total Customers: 3K
-
-Average Order Value: $3.78K
-
-Products Sold: 43K
-
-Return Amount: $4.01M
-
-Returned Orders: 1K
-
-Active Stores: 15
+- Total Sales: $45.4M
+- Total Profit: $9.7M
+- Profit Margin: 21%
+- Total Orders: 12K
+- Total Customers: 3K
+- Average Order Value: $3.78K
+- Products Sold: 43K
+- Return Amount: $4.01M
+- Returned Orders: 1K
+- Active Stores: 15
 
 💡 Key Insights
 - Flagship stores generate the highest share of sales among store types.
