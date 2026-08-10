@@ -58,7 +58,7 @@ The dashboard highlights the relationship between sales, customers, products, an
 - Helps management quickly monitor overall business performance.
 - Identifies high-performing regions, products, categories, and stores.
 - Supports better sales, inventory, and customer decisions.
-
+---
 ### 2. Sales Analytics
 
 📈 Sales Analytics
@@ -83,7 +83,7 @@ Analyzes sales performance across time, regions, products, and payment methods t
 - Supports sales and revenue planning using quarterly and daily trends.
 - Helps management understand customer payment preferences.
 - Enables businesses to focus on areas with the greatest revenue potential.
-
+---
 ### 3. Customer Analytics
 
 Analyzes customer behavior, demographics, loyalty, and purchasing patterns.
