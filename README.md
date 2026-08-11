@@ -27,7 +27,7 @@ and identify trends in:
 
 ---
 ### HOME
-<img width="1536" height="1024" alt="ChatGPT Image Aug 11, 2026, 12_22_00 PM" src="https://github.com/user-attachments/assets/1117f7b4-e4f9-4bbb-8f06-924738f4594e" />
+<img width="1258" height="802" alt="Screenshot 2026-08-11 132518" src="https://github.com/user-attachments/assets/c868ab9b-c152-47c9-8ccb-ffdf110b97c8" />
 
 ---
 
@@ -35,7 +35,7 @@ and identify trends in:
 
 ### 1. Executive Overview
 
-<img width="1258" height="813" alt="Screenshot 2026-08-10 192033" src="https://github.com/user-attachments/assets/93c3a9ef-02a2-42e6-8c67-9447ef2fcfe6" />
+<img width="1264" height="807" alt="Screenshot 2026-08-11 132637" src="https://github.com/user-attachments/assets/24dee105-b07a-4a0c-97cc-038103370d4b" />
 
 📊 Executive Overview
 Provides a high-level view of overall business performance, covering sales, profit, orders, customers, products, returns, and store activity.
@@ -66,9 +66,7 @@ The dashboard highlights the relationship between sales, customers, products, an
 - Supports better sales, inventory, and customer decisions.
 ---
 ### 2. Sales Analytics
-
-<img width="1248" height="814" alt="Screenshot 2026-08-10 192553" src="https://github.com/user-attachments/assets/ab65603e-34f7-4cba-b44b-eabc8aea4ba6" />
-
+<img width="1263" height="807" alt="Screenshot 2026-08-11 132702" src="https://github.com/user-attachments/assets/c3891f3d-1ac8-499a-b413-57e59bf41314" />
 
 📈 Sales Analytics
 Analyzes sales performance across time, regions, products, and payment methods to identify revenue trends and top-performing areas.
@@ -95,7 +93,7 @@ Analyzes sales performance across time, regions, products, and payment methods t
 ---
 ### 3. Customer Analytics
 
-<img width="1260" height="801" alt="Screenshot 2026-08-10 202258" src="https://github.com/user-attachments/assets/b641fd28-7b86-42d8-a611-fd5f0992e69e" />
+<img width="1269" height="812" alt="Screenshot 2026-08-11 132820" src="https://github.com/user-attachments/assets/379f979b-1bd3-4385-9cc3-181c5fd2b112" />
 
 👥 Customer Analytics
 Analyzes customer behavior, spending, loyalty, demographics, and regional distribution to understand customer value and purchasing patterns.
@@ -122,7 +120,7 @@ Analyzes customer behavior, spending, loyalty, demographics, and regional distri
 ---
 
 ### 4. Product Analytics
-<img width="1261" height="802" alt="Screenshot 2026-08-10 202507" src="https://github.com/user-attachments/assets/94b80d39-a066-4536-bd6a-ddcf1118497f" />
+<img width="1257" height="808" alt="Screenshot 2026-08-11 132845" src="https://github.com/user-attachments/assets/af151c2c-7f33-4c14-8fe9-c91d7178bc7d" />
 
 📦 Product Analytics
 Analyzes product, brand, category, stock, and regional performance to identify top-selling products and revenue opportunities.
@@ -153,7 +151,7 @@ Analyzes product, brand, category, stock, and regional performance to identify t
 
 ### 5. Order & Return Insights
 
-<img width="1269" height="813" alt="Screenshot 2026-08-10 202542" src="https://github.com/user-attachments/assets/96c544f8-4f56-4cae-b7b6-9503aebffbbd" />
+<img width="1257" height="812" alt="Screenshot 2026-08-11 132918" src="https://github.com/user-attachments/assets/5380adad-c037-48f6-8c03-6caa0bd8b2fb" />
 
 📦 Order & Return Insights
 Analyzes order trends, return performance, store types, order status, and payment methods to understand overall order and return behavior.
