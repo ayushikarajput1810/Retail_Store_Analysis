@@ -36,7 +36,7 @@ and identify trends in:
 📊 Executive Overview
 Provides a high-level view of overall business performance, covering sales, profit, orders, customers, products, returns, and store activity.
 
-🔑 Key Metrics
+#### 🔑 Key Metrics
 - Total Sales: $45.4M
 - Total Profit: $9.7M
 - Profit Margin: 21%
