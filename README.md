@@ -149,19 +149,30 @@ Analyzes product, brand, category, stock, and regional performance to identify t
 
 ### 5. Order & Return Insights
 
-Analyzes order trends, returns, order status, and payment behavior.
+<img width="1269" height="813" alt="Screenshot 2026-08-10 202542" src="https://github.com/user-attachments/assets/96c544f8-4f56-4cae-b7b6-9503aebffbbd" />
 
-Key Analysis:
-- Total Orders
-- Total Revenue
-- Average Order Value
-- Returned Orders
-- Total Return Amount
-- Orders by Month
-- Orders by Store Type
-- Order Status
-- Return Status
-- Payment Methods
+📦 Order & Return Insights
+Analyzes order trends, return performance, store types, order status, and payment methods to understand overall order and return behavior.
+
+🔑 Key Metrics
+- Total Orders: 12K
+- Total Sales: $45.4M
+- Average Order Value: $3.78K
+- Returned Orders: 1,056
+- Total Return Amount: $4.01M
+
+💡 Key Insights
+- 87.02% of orders are completed, showing strong order fulfillment.
+- 1,056 orders were returned, highlighting the need to monitor return behavior.
+- Flagship stores have the highest order volume with 4,671 orders.
+- Order volume fluctuates by month, with October recording one of the highest order levels.
+- Payment methods have a relatively balanced distribution, with no single method dominating.
+
+💼 Business Value
+- Helps monitor order and return performance.
+- Identifies periods and store types with high order demand.
+- Supports improvements in order fulfillment and return management.
+- Helps businesses understand payment preferences and optimize the customer purchasing experience.
 
 ---
 
