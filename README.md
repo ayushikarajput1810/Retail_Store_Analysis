@@ -63,6 +63,9 @@ The dashboard highlights the relationship between sales, customers, products, an
 ---
 ### 2. Sales Analytics
 
+<img width="1248" height="814" alt="Screenshot 2026-08-10 192553" src="https://github.com/user-attachments/assets/ab65603e-34f7-4cba-b44b-eabc8aea4ba6" />
+
+
 📈 Sales Analytics
 Analyzes sales performance across time, regions, products, and payment methods to identify revenue trends and top-performing areas.
 
