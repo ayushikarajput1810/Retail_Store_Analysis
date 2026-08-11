@@ -91,19 +91,30 @@ Analyzes sales performance across time, regions, products, and payment methods t
 ---
 ### 3. Customer Analytics
 
-Analyzes customer behavior, demographics, loyalty, and purchasing patterns.
+<img width="1260" height="801" alt="Screenshot 2026-08-10 202258" src="https://github.com/user-attachments/assets/b641fd28-7b86-42d8-a611-fd5f0992e69e" />
 
-Key Analysis:
-- Total Customers
-- Active Customers
-- Repeat Customers
-- Average Customer Lifetime Value
-- Average Customer Spend
-- Customer Age Distribution
-- Customer Loyalty
-- Customer Revenue
-- Regional Customer Distribution
+👥 Customer Analytics
+Analyzes customer behavior, spending, loyalty, demographics, and regional distribution to understand customer value and purchasing patterns.
 
+🔑 Key Metrics
+- Total Customers: 3K
+- Active Customers: 2,945
+- Repeat Customers: 2,720
+- Average CLV: 15.12K
+- Average Customer Spend: 15.40K
+
+💡 Key Insights
+- 2,720 customers are repeat customers, showing strong customer retention.
+- The 46–55 age group has the highest number of customers.
+- Bronze loyalty customers generate the highest sales at approximately $23M.
+- Greater Cairo has the highest customer concentration.
+- Customer numbers fluctuate across months, with August and November showing strong customer activity.
+
+💼 Business Value
+- Helps identify high-value and loyal customers.
+- Supports better customer segmentation and targeted marketing.
+- Helps businesses understand customer demographics and regional demand.
+- Provides insights for improving customer retention and lifetime value.
 ---
 
 ### 4. Product Analytics
