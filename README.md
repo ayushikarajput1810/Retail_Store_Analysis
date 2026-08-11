@@ -26,7 +26,7 @@ and identify trends in:
 - Payment methods
 
 ---
-### 1. Home
+### - Home
 <img width="1536" height="1024" alt="ChatGPT Image Aug 11, 2026, 12_22_00 PM" src="https://github.com/user-attachments/assets/1117f7b4-e4f9-4bbb-8f06-924738f4594e" />
 
 ---
