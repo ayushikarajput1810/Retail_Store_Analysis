@@ -48,7 +48,7 @@ Provides a high-level view of overall business performance, covering sales, prof
 - Returned Orders: 1K
 - Active Stores: 15
 
-💡 Key Insights
+#### 💡 Key Insights
 - Flagship stores generate the highest share of sales among store types.
 - Electronics contribute significantly more revenue than Clothing.
 - Sales and orders show monthly fluctuations, with October showing strong performance.
@@ -56,7 +56,7 @@ Provides a high-level view of overall business performance, covering sales, prof
 
 The dashboard highlights the relationship between sales, customers, products, and returns in one place.
 
-💼 Business Value
+#### 💼 Business Value
 - Helps management quickly monitor overall business performance.
 - Identifies high-performing regions, products, categories, and stores.
 - Supports better sales, inventory, and customer decisions.
@@ -69,21 +69,21 @@ The dashboard highlights the relationship between sales, customers, products, an
 📈 Sales Analytics
 Analyzes sales performance across time, regions, products, and payment methods to identify revenue trends and top-performing areas.
 
-🔑 Key Metrics
+#### 🔑 Key Metrics
 - Total Sales: $45.4M
 - Total Profit: $9.7M
 - Total Orders: 12K
 - Products Sold: 43K
 - Average Order Value: $3.78K
 
-💡 Key Insights
+#### 💡 Key Insights
 - Q3 generated the highest quarterly revenue at $11.7M.
 - Greater Cairo is the top-performing region with approximately $17M in sales.
 - Sales performance varies across months, with noticeable daily and monthly fluctuations.
 - The top products contribute significantly to overall revenue.
 - Revenue is distributed fairly evenly across the different payment methods.
 
-💼 Business Value
+#### 💼 Business Value
 - Helps identify high-performing regions and products.
 - Supports sales and revenue planning using quarterly and daily trends.
 - Helps management understand customer payment preferences.
@@ -96,21 +96,21 @@ Analyzes sales performance across time, regions, products, and payment methods t
 👥 Customer Analytics
 Analyzes customer behavior, spending, loyalty, demographics, and regional distribution to understand customer value and purchasing patterns.
 
-🔑 Key Metrics
+#### 🔑 Key Metrics
 - Total Customers: 3K
 - Active Customers: 2,945
 - Repeat Customers: 2,720
 - Average CLV: 15.12K
 - Average Customer Spend: 15.40K
 
-💡 Key Insights
+#### 💡 Key Insights
 - 2,720 customers are repeat customers, showing strong customer retention.
 - The 46–55 age group has the highest number of customers.
 - Bronze loyalty customers generate the highest sales at approximately $23M.
 - Greater Cairo has the highest customer concentration.
 - Customer numbers fluctuate across months, with August and November showing strong customer activity.
 
-💼 Business Value
+#### 💼 Business Value
 - Helps identify high-value and loyal customers.
 - Supports better customer segmentation and targeted marketing.
 - Helps businesses understand customer demographics and regional demand.
@@ -123,7 +123,7 @@ Analyzes customer behavior, spending, loyalty, demographics, and regional distri
 📦 Product Analytics
 Analyzes product, brand, category, stock, and regional performance to identify top-selling products and revenue opportunities.
 
-🔑 Key Metrics
+##### 🔑 Key Metrics
 - Total Products: 345
 - Total Sales: $45.4M
 - Total Profit: $9.7M
@@ -132,14 +132,14 @@ Analyzes product, brand, category, stock, and regional performance to identify t
 - Best-Selling Product: iPhone 14 128GB
 - Lowest-Selling Product: Xiaomi Smart Band 8 Pro
 
-💡 Key Insights
+##### 💡 Key Insights
 - Electronics is the leading category, generating about $34.4M (75.83%) of revenue.
 - Apple is the top-performing brand by revenue.
 - iPhone 14 128GB is the highest-revenue product at approximately $2.22M.
 - Greater Cairo generates the highest regional revenue at around $17M.
 - Clothing holds significantly more stock than Electronics, indicating a potential inventory imbalance.
 
-💼 Business Value
+#### 💼 Business Value
 - Helps identify top-performing products, brands, and categories.
 - Supports better inventory and stock management.
 - Helps businesses focus on high-revenue regions and products.
@@ -154,21 +154,21 @@ Analyzes product, brand, category, stock, and regional performance to identify t
 📦 Order & Return Insights
 Analyzes order trends, return performance, store types, order status, and payment methods to understand overall order and return behavior.
 
-🔑 Key Metrics
+#### 🔑 Key Metrics
 - Total Orders: 12K
 - Total Sales: $45.4M
 - Average Order Value: $3.78K
 - Returned Orders: 1,056
 - Total Return Amount: $4.01M
 
-💡 Key Insights
+#### 💡 Key Insights
 - 87.02% of orders are completed, showing strong order fulfillment.
 - 1,056 orders were returned, highlighting the need to monitor return behavior.
 - Flagship stores have the highest order volume with 4,671 orders.
 - Order volume fluctuates by month, with October recording one of the highest order levels.
 - Payment methods have a relatively balanced distribution, with no single method dominating.
 
-💼 Business Value
+#### 💼 Business Value
 - Helps monitor order and return performance.
 - Identifies periods and store types with high order demand.
 - Supports improvements in order fulfillment and return management.
@@ -184,38 +184,6 @@ Analyzes order trends, return performance, store types, order status, and paymen
 - Microsoft Excel
 - Data Modeling
 - Data Visualization
-- Business Intelligence
-
----
-
-
-
-
-
-
-
-## 📷 Dashboard Preview
-
-### Executive Overview
-
-![Executive Overview](Dashboard_Screenshots/Executive_Overview.png)
-
-### Sales Analytics
-
-![Sales Analytics](Dashboard_Screenshots/Sales_Analytics.png)
-
-### Customer Analytics
-
-![Customer Analytics](Dashboard_Screenshots/Customer_Analytics.png)
-
-### Product Analytics
-
-![Product Analytics](Dashboard_Screenshots/Product_Analytics.png)
-
-### Order & Return Insights
-
-![Order & Return Insights](Dashboard_Screenshots/Order_Return_Insights.png)
-
 ---
 
 ## 💡 Skills Demonstrated
@@ -235,7 +203,6 @@ Analyzes order trends, return performance, store types, order status, and paymen
 ---
 
 ## 👩‍💻 Author
-
 Ayushika Singh Rajput
 
-Data Analytics | Power BI | SQL | Python
+
