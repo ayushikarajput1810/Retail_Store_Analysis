@@ -118,20 +118,32 @@ Analyzes customer behavior, spending, loyalty, demographics, and regional distri
 ---
 
 ### 4. Product Analytics
+<img width="1261" height="802" alt="Screenshot 2026-08-10 202507" src="https://github.com/user-attachments/assets/94b80d39-a066-4536-bd6a-ddcf1118497f" />
 
-Analyzes product and brand performance.
+📦 Product Analytics
+Analyzes product, brand, category, stock, and regional performance to identify top-selling products and revenue opportunities.
 
-Key Analysis:
-- Total Products
-- Total Sales
-- Total Profit
-- Products Sold
-- Best-Selling Product
-- Best-Selling Category
-- Top Brands
-- Top Products
-- Revenue by Region
-- Stock Quantity
+🔑 Key Metrics
+- Total Products: 345
+- Total Sales: $45.4M
+- Total Profit: $9.7M
+- Products Sold: 43K
+- Best-Selling Category: Electronics
+- Best-Selling Product: iPhone 14 128GB
+- Lowest-Selling Product: Xiaomi Smart Band 8 Pro
+
+💡 Key Insights
+- Electronics is the leading category, generating about $34.4M (75.83%) of revenue.
+- Apple is the top-performing brand by revenue.
+- iPhone 14 128GB is the highest-revenue product at approximately $2.22M.
+- Greater Cairo generates the highest regional revenue at around $17M.
+- Clothing holds significantly more stock than Electronics, indicating a potential inventory imbalance.
+
+💼 Business Value
+- Helps identify top-performing products, brands, and categories.
+- Supports better inventory and stock management.
+- Helps businesses focus on high-revenue regions and products.
+- Supports product-level decisions such as promotion, pricing, and inventory planning.
 
 ---
 
