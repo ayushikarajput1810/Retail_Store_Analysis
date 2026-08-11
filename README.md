@@ -31,6 +31,8 @@ and identify trends in:
 
 ### 1. Executive Overview
 
+<img width="1258" height="813" alt="Screenshot 2026-08-10 192033" src="https://github.com/user-attachments/assets/93c3a9ef-02a2-42e6-8c67-9447ef2fcfe6" />
+
 📊 Executive Overview
 Provides a high-level view of overall business performance, covering sales, profit, orders, customers, products, returns, and store activity.
 
